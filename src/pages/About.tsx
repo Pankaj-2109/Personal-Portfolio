@@ -36,7 +36,7 @@ export default function About() {
 
   // DOWNLOAD FUNCTION - FIXED
   const handleDownload = () => {
-  window.open("/assets/krsnaResume.pdf", "_blank");
+  window.open("/assets/pankajResume.pdf", "_blank");
 };
 
 
