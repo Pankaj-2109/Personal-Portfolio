@@ -232,8 +232,7 @@ export default function About() {
   </p>
 
   <p>
-    I have built projects like an AI Resume Analyzer and a MERN E-Commerce
-    platform with authentication, product management and payment integration.
+    I have built advanced projects like <strong>LAMA AI</strong> (an AI-powered agent platform built with Gemini AI and Clerk authentication) and a professional <strong>AI Headshot generator</strong> (transforming selfies into polished profile photos using Cloudinary and Replicate AI).
   </p>
 
   <p>
