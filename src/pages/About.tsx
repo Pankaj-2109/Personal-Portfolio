@@ -36,8 +36,8 @@ export default function About() {
 
   // DOWNLOAD FUNCTION - FIXED
   const handleDownload = () => {
-  window.open("/assets/pankajResume.pdf", "_blank");
-};
+    window.open("/assets/pankajResume.pdf", "_blank");
+  };
 
 
   return (
@@ -206,7 +206,7 @@ export default function About() {
             "
           >
             <div
-  className="
+              className="
     text-white/70
     text-sm
     sm:text-base
@@ -214,37 +214,37 @@ export default function About() {
     tracking-wide
     space-y-6
   "
->
-  <p>
-    I am <strong>Pankaj Singh Bisht</strong>, a B.Tech Computer Science student at
-    Maharaja Agrasen Institute of Technology (MAIT), Delhi.
-  </p>
+            >
+              <p>
+                I am <strong>Pankaj Singh Bisht</strong>, a B.Tech Computer Science student at
+                Maharaja Agrasen Institute of Technology (MAIT), Delhi.
+              </p>
 
-  <p>
-    I am passionate about Full Stack MERN Development and Data Structures &
-    Algorithms. I enjoy solving coding problems and building real-world web
-    applications.
-  </p>
+              <p>
+                I am passionate about Full Stack MERN Development and Data Structures &
+                Algorithms. I enjoy solving coding problems and building real-world web
+                applications.
+              </p>
 
-  <p>
-    My technical skills include React.js, Node.js, Express.js, MongoDB,
-    JavaScript, TypeScript, C++, Java, SQL and Tailwind CSS.
-  </p>
+              <p>
+                My technical skills include React.js, Node.js, Express.js, MongoDB,
+                JavaScript, TypeScript, C++, Java, SQL and Tailwind CSS.
+              </p>
 
-  <p>
-    I have built advanced projects like <strong>LAMA AI</strong> (an AI-powered agent platform built with Gemini AI and Clerk authentication) and a professional <strong>AI Headshot generator</strong> (transforming selfies into polished profile photos using Cloudinary and Replicate AI).
-  </p>
+              <p>
+                I have built advanced projects like <strong>LAMA AI</strong> (an AI-powered agent platform built with Gemini AI and Clerk authentication) and a professional <strong>AI Headshot generator</strong> (transforming selfies into polished profile photos using Cloudinary and Replicate AI).
+              </p>
 
-  <p>
-    I have solved 200+ DSA problems and continuously improve my problem-solving
-    skills through LeetCode and project development.
-  </p>
+              <p>
+                I have solved 150+ DSA problems and continuously improve my problem-solving
+                skills through LeetCode and project development.
+              </p>
 
-  <p>
-    My goal is to become a skilled Software Engineer and contribute to building
-    scalable applications while continuously learning modern technologies.
-  </p>
-</div>
+              <p>
+                My goal is to become a skilled Software Engineer and contribute to building
+                scalable applications while continuously learning modern technologies.
+              </p>
+            </div>
           </div>
         </motion.div>
 
@@ -299,8 +299,8 @@ export default function About() {
               "
             />
             <span className="font-semibold tracking-wide">
-  Download Resume
-</span>
+              Download Resume
+            </span>
           </div>
         </motion.button>
       </div>
